@@ -1,2 +1,2 @@
-# python_playground_w3schools_v2
+# python_playground_w3schools
 Created with CodeSandbox
