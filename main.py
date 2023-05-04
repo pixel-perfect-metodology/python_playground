@@ -9,7 +9,7 @@ print('')
 # or
 # from lessons import day_17
 
-last_day = 1
+last_day = 25
 
 for lesson_day in range(100):
     if lesson_day == last_day:
